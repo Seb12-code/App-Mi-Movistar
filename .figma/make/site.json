@@ -1,0 +1,10 @@
+{
+  "description": "Permite a clientes de Movistar Perú gestionar servicios, consultar consumos, recibir atención virtual con IA y registrar y seguir reclamos en un solo lugar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
